@@ -1,0 +1,256 @@
+<!-- begin act02.fr -->
+<!-- changed 01.04.2009 by ih, for MFWH -->
+<html>
+<head>
+<title>Swisscom - Webhosting&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</title>
+</head>
+<style type="text/css">
+<!--
+body {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; }
+td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; }
+p {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; }
+a:link{color: #00445C;}
+a:visited{color: #00445C;}
+a:hover{color: #3399CC;}
+a:active{color: #00445C;}
+.boxline {  background-color: #FFFFFF; border: 1px #3399CC solid; }
+.boxtitle {  color: #FFFFFF; background-color: #3399CC; font-weight: bold; }
+.helpboxtitle { color: #FFFFFF; background-color: #3399CC; font-weight: bold; }
+.helpboxline { background-color: #FFFFFF; border: 1px #3399CC solid; }
+.infoboxrows {  background-color: #99CCFF; }
+.tab { background-color: #FFFFFF; border: 1px #000000 solid; }
+.tabactive { background-color: #CCFFFF; border: 1px #000000 solid; }
+.tabtext { text-decoration: none ; color: #000000; }
+.tabactive1 {background-color: #FFFFFF;border: 1px #00445C solid;color: #00445C; }
+.tabtext1 {text-decoration: none; color: #004456; font-weight: bold; }
+.copyright {color:#FFFFFF; font-family: Verdana, Arial,Helvetica,sans serif; font-size:9.4px; }
+.rowLabel {text-decoration: none; color:#000000; font-weight: bold; }
+.url {color:#FF0000; font-family: Verdana, Arial, Helvetica, sans serif; font-size:18.0px;text-decoration:none; font-weight:bold;}
+.titdblue {color:#003366; font-family: Verdana, Arial, Helvetica, sans serif; font-size:11px; font-weight:bold;}
+.product {color:#003366; font-family: Verdana, Arial, Helvetica, sans serif; font-size:11.0px;text-decoration:none;}
+
+
+-->
+</style>
+
+<script language="JavaScript">
+
+function PopWinStart(Page, Size)
+{
+        PopWin = window.open(Page, 'Win', Size);
+        if (navigator.appName == "Netscape")
+                 {
+                PopWin.focus(); }
+}
+
+</script>
+
+
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="2" marginwidth="0" marginheight="3">
+<div align="center">
+<br>
+<!-- top green bar -->
+<table width="640" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="640" height="20" bgcolor="#3399CC">&nbsp;</td>
+</tr>
+</table>
+<!-- end top green bar -->
+
+<!-- white line -->
+<table width="640" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td bgcolor="#FFFFFF"><img src="/cgi-image/space.gif" width="100%" height="1"></td>
+</tr>
+</table>
+<!-- end white line -->
+
+<!-- green line header-->
+<table width="640" border="0" cellspacing="0" cellpadding="0">
+<tr> <td bgcolor="#3399CC"><img src="/cgi-image/space.gif" width="100%" height="1"></td></tr>
+</table>
+<!-- end green line header-->
+
+
+<table width="640" cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#ffffff">
+<!-- green line left-->
+<td align="left" bgcolor="#3399CC"><img src="/cgi-image/space.gif" width="1" height="1" border="0" alt=""></td>
+<!-- end green line left-->
+
+<!-- start content -->
+<td width="638" bgcolor="White">
+
+<table width="638" cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#ffffff">
+<tr>
+<td  align="center" valign="middle" bgcolor="#ffffff">
+
+<br><br>
+
+<!-- url & message -->
+<table width="100%" cellspacing="0" cellpadding="5" border="0" align="center" bgcolor="#ffffff">
+<tr>
+<!-- -- url variable -- -->
+<td align="center" class="url" colspan="2">www.atelierarchitecturehasler.ch</td>
+</tr>
+<tr>
+<td align="center" class="titdblue" colspan="2">Ce site est en construction.</td>
+</tr>
+<tr>
+<td align="center" colspan="2"><img src="/cgi-image/space.gif" width="1" height="10" alt="" border="0"></td>
+</tr>
+<tr>
+<td align="center" valign="top" class="product">H&eacute;bergement par &nbsp;<p><img src="http://de.swisscom.ch/img/logo_swisscom.gif" align="absbottom" width="101" height="75" alt="Swisscom" border="0"></td>
+</tr>
+</table>
+<!-- end url & message -->
+
+<br><br><br>
+
+<!-- start teaserbox -->
+<table width="500" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td bgcolor="#003366" width="100%">
+
+<table width="500" bgcolor="#003366" cellpadding="3" cellspacing="1" border="0">
+<!-- title -->
+<tr>
+<td class="titdblue" bgcolor="#ffffff">
+Informations pour les visiteurs
+</td>
+</tr>
+<!-- end title -->
+<tr>
+<td bgcolor="#ffffff">
+
+<table width="100%" cellpadding="2" cellspacing="0" border="0">
+<!-- teaser 1 -->
+<tr>
+<td class="text" width="100%" align="left" valign="top">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="4" bgcolor="#ffffff">
+<tr>
+<td valign="top"><a href="http://r.bluewin.ch/?id=93189"><img src="http://swisscom.hostcenter.com/cgi-image/webhosting_50x50.jpg" width="50" height="50" border="0" alt="Hébergement"></a>
+</td>
+<td valign="top" class="text">Souhaitez-vous poss&eacute;der votre site internet personnel? Aper&ccedil;u de tous les
+<a href="http://r.bluewin.ch/?id=93189"><b>produits d&rsquo;h&eacute;bergement</b></a> de Swisscom.
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+<!-- end teaser 1 -->
+
+<!-- teaser 2 -->
+<tr>
+<td class="text" width="100%" align="left" valign="top">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="4" bgcolor="#ffffff">
+<tr>
+<td valign="top"><a href="http://r.bluewin.ch/?id=91179"><img src="http://swisscom.hostcenter.com/cgi-image/hpt_50x50.jpg" width="50" height="50" border="0" alt="HomepageTool"></a>
+</td>
+<td valign="top" class="text">Vous cherchez &agrave; cr&eacute;er simplement votre site internet personnel? Alors pensez &agrave; notre outil de cr&eacute;ation
+<a href="http://r.bluewin.ch/?id=91179"><b>HomepageTool</b></a>!
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+<!-- end teaser 2 -->
+
+</table>
+</td></tr></table>
+</td></tr></table>
+<!-- end teaserbox -->
+
+<br>
+
+<!-- start owner-info -->
+<table width="500" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td bgcolor="#003366" width="100%">
+
+<table width="500" bgcolor="#003366" cellpadding="3" cellspacing="1" border="0">
+<!-- title -->
+<tr>
+<td class="titdblue" bgcolor="#ffffff">
+Informations pour les propri&eacute;taires de ces sites
+</td>
+</tr>
+<!-- end title -->
+<tr>
+<td bgcolor="#ffffff">
+
+<table width="100%" cellpadding="2" cellspacing="0" border="0">
+<!-- info text -->
+<tr>
+<td class="text" width="100%" align="left" valign="top">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="4" bgcolor="#ffffff">
+<tr>
+<td valign="top" class="text">
+<span class="titblack">Comment cr&eacute;er votre site:</span>
+<br><br>
+Cr&eacute;ez vos pages internet avec
+<a href="http://r.bluewin.ch/?id=91179"><b>HomepageTool</b></a>
+(compris dans votre pack d&rsquo;h&eacute;bergement) ou au moyen d&rsquo;un autre &eacute;diteur de sites.
+<br><br>
+<a href="http://r.bluewin.ch/?id=91181"><b>D&eacute;posez</b></a>
+vos pages sur le serveur web &agrave; l&rsquo;aide du programme &laquo;FTP&raquo; (File Transfer Protocol). A moins que vous ne cr&eacute;iez votre site avec HomepageTool de Swisscom, le
+<a href="http://r.bluewin.ch/?id=91181"><b>transfert</b></a> fonctionne comme suit.
+<br><br>
+Dans <a href="http://r.bluewin.ch/?id=93190"><b>le Centre clients</b></a>,
+vous avez la possibilit&eacute; de g&eacute;rer votre compte d&rsquo;h&eacute;bergement et de consulter toutes les r&eacute;ponses &agrave; vos questions.
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+<!-- end info text -->
+
+</table>
+</td></tr></table>
+</td></tr></table>
+<!-- end owner-info -->
+<br>
+</td>
+</tr>
+</table>
+
+</td>
+<!-- end content -->
+
+<!-- green line right -->
+<td align="right" bgcolor="#3399CC"><img src="/cgi-image/space.gif" width="1" height="1" border="0" alt=""></td>
+<!-- end green line right -->
+</table>
+
+<!-- green line  footer-->
+<table width="640" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td bgcolor="#3399CC"><img src="/cgi-image/space.gif" width="1" height="1" border="0" alt=""></td>
+</tr>
+</table>
+<!-- end green line footer-->
+
+<!-- white line -->
+<table width="640" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td bgcolor="#FFFFFF"><img src="/cgi-image/space.gif" width="100%" height="1"></td>
+</tr>
+</table>
+<!-- end white line -->
+
+<!-- Copyright-->
+<table width="640" height="20" border="0" cellspacing="0" cellpadding="5">
+<tr bgcolor="#3399CC">
+<td class="copyright">Copyright &copy; 2009 Swisscom (Suisse) SA</td>
+</tr>
+</table>
+<!-- end Copyright -->
+<br>
+</div>
+</body>
+</html>

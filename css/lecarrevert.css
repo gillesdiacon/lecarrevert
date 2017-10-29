@@ -1,0 +1,147 @@
+body,
+button{
+    font-size: 0.8rem;
+    font-family: Century Gothic, Verdana, Tahoma, Arial, sans-serif !important;
+    color: #222222;
+    font-weight: normal;
+    line-height: 1.2;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #008080;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #01AB30;
+    font-weight: bold;
+}
+
+.logo .carreLeftLeft{
+    border: none;
+    border-top: 1px solid #000000;
+    text-align: left;
+    vertical-align: top;
+}
+
+.logo .carreLeft{
+    border: none;
+    border-top: 1px solid #000000;
+    text-align: right;
+    vertical-align: middle;
+}
+
+.logo .carreVert{
+    width: 5em;
+    height: 5em;
+    background-color: #008080;
+    border-top: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+}
+
+.logo .carreRight{
+    border: none;
+    border-bottom: 1px solid #000000;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.logo .carreRightRight{
+    border: none;
+    border-bottom: 1px solid #000000;
+    text-align: right;
+    vertical-align: bottom;
+}
+
+#navbarCollapse .nav-item{
+    font-weight: bold;
+
+    border-right: 1px solid #999999;
+
+    background: #eeeeee; /* Old browsers */
+    background: -moz-linear-gradient(top,  #eeeeee 0%, #cccccc 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eeeeee), color-stop(100%,#cccccc)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #eeeeee 0%,#cccccc 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #eeeeee 0%,#cccccc 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #eeeeee 0%,#cccccc 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #eeeeee 0%,#cccccc 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#cccccc',GradientType=0 ); /* IE6-9 */
+}
+
+#navbarCollapse .nav-item:last-child{
+    border-right: none;
+}
+
+#navbarCollapse ul li.active,
+#navbarCollapse ul li:hover{
+    background: #00c9c9; /* Old browsers */
+    background: -moz-linear-gradient(top,  #00c9c9 0%, #008080 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#00c9c9), color-stop(100%,#008080)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #00c9c9 0%,#008080 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #00c9c9 0%,#008080 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #00c9c9 0%,#008080 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #00c9c9 0%,#008080 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00c9c9', endColorstr='#008080',GradientType=0 ); /* IE6-9 */
+}
+
+#navbarCollapse ul li.active > a,
+#navbarCollapse ul li:hover > a{
+    color: #000000;
+}
+
+.capitalShadow{
+    text-shadow: 1px 1px 1px #333333;
+    font-size: 1rem;
+}
+
+.homeTable{
+    border-collapse: separate;
+    border-spacing: 1em;
+}
+
+.element{
+    vertical-align: middle !important;
+    
+    background: #ffffff; /* Old browsers */
+    background: -moz-linear-gradient(top,  #ffffff 0%, #f6f6f6 47%, #ededed 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(47%,#f6f6f6), color-stop(100%,#ededed)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #ffffff 0%,#f6f6f6 47%,#ededed 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #ffffff 0%,#f6f6f6 47%,#ededed 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #ffffff 0%,#f6f6f6 47%,#ededed 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #ffffff 0%,#f6f6f6 47%,#ededed 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ededed',GradientType=0 ); /* IE6-9 */
+
+    -webkit-box-shadow: 2px 2px 5px #888888;
+    -moz-box-shadow:    2px 2px 5px #888888;
+    box-shadow:         2px 2px 5px #888888;
+}
+
+.element .title{
+    font-weight: bold;
+    color: #555555;
+}
+
+.bioBlock h1{
+    margin-top: 2em;
+    font-size: 1.8rem;
+    font-family: Century Gothic, Verdana, Tahoma, Arial, sans-serif !important;
+    font-weight: bold;
+    color: #555555;
+}
+
+.bioBlock .bioBlockYear,
+.bioBlock .bioBlockDuration{
+    width: 90px;
+}
+
+.bioBlock .bioBlockContent{
+    width: 600px;
+}
+
+.bioBlock .bioDocuments ul{
+    margin: 0px;
+    color: #555555;
+    list-style: none;
+}
